@@ -1,4 +1,4 @@
-# Embreadings 🍞
+# Onion Embedded 🧅
 
 ## What is this?
 
