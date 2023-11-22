@@ -1,3 +1,4 @@
 .env
 .venv/
+.vscode/
 secure-connect-embedding-tutorial.zip
